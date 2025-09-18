@@ -1,0 +1,33 @@
+test,status,max_difference,ticker,details
+SMA vs Pandas (window=5),Passed,0.0,AAPL,
+Runs Analysis,Passed,,AAPL,Basic validation
+Daily Returns,Passed,,AAPL,Basic validation
+Max Profit,Passed,,AAPL,Basic validation
+SMA vs Pandas (window=5),Passed,0.0,MSFT,
+Runs Analysis,Passed,,MSFT,Basic validation
+Daily Returns,Passed,,MSFT,Basic validation
+Max Profit,Passed,,MSFT,Basic validation
+SMA vs Pandas (window=5),Passed,0.0,GOOGL,
+Runs Analysis,Passed,,GOOGL,Basic validation
+Daily Returns,Passed,,GOOGL,Basic validation
+Max Profit,Passed,,GOOGL,Basic validation
+SMA vs Pandas (window=5),Passed,0.0,AMZN,
+Runs Analysis,Passed,,AMZN,Basic validation
+Daily Returns,Passed,,AMZN,Basic validation
+Max Profit,Passed,,AMZN,Basic validation
+SMA vs Pandas (window=5),Passed,0.0,TSLA,
+Runs Analysis,Passed,,TSLA,Basic validation
+Daily Returns,Passed,,TSLA,Basic validation
+Max Profit,Passed,,TSLA,Basic validation
+SMA vs Pandas (window=5),Passed,0.0,NVDA,
+Runs Analysis,Passed,,NVDA,Basic validation
+Daily Returns,Passed,,NVDA,Basic validation
+Max Profit,Passed,,NVDA,Basic validation
+SMA vs Pandas (window=5),Passed,0.0,META,
+Runs Analysis,Passed,,META,Basic validation
+Daily Returns,Passed,,META,Basic validation
+Max Profit,Passed,,META,Basic validation
+SMA vs Pandas (window=5),Passed,0.0,NFLX,
+Runs Analysis,Passed,,NFLX,Basic validation
+Daily Returns,Passed,,NFLX,Basic validation
+Max Profit,Passed,,NFLX,Basic validation

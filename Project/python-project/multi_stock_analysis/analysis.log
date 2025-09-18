@@ -1,0 +1,472 @@
+2025-09-16 03:26:26,128 - INFO - Loading data for 8 stocks with period: 1y
+2025-09-16 03:26:26,129 - INFO - Fetching data for AAPL
+2025-09-16 03:26:26,557 - INFO - Successfully loaded 250 rows for AAPL
+2025-09-16 03:26:26,558 - INFO - Fetching data for MSFT
+2025-09-16 03:26:26,658 - INFO - Successfully loaded 250 rows for MSFT
+2025-09-16 03:26:26,659 - INFO - Fetching data for GOOGL
+2025-09-16 03:26:26,740 - INFO - Successfully loaded 250 rows for GOOGL
+2025-09-16 03:26:26,740 - INFO - Fetching data for AMZN
+2025-09-16 03:26:26,827 - INFO - Successfully loaded 250 rows for AMZN
+2025-09-16 03:26:26,828 - INFO - Fetching data for TSLA
+2025-09-16 03:26:26,907 - INFO - Successfully loaded 250 rows for TSLA
+2025-09-16 03:26:26,908 - INFO - Fetching data for NVDA
+2025-09-16 03:26:27,004 - INFO - Successfully loaded 250 rows for NVDA
+2025-09-16 03:26:27,004 - INFO - Fetching data for META
+2025-09-16 03:26:27,083 - INFO - Successfully loaded 250 rows for META
+2025-09-16 03:26:27,083 - INFO - Fetching data for NFLX
+2025-09-16 03:26:27,153 - INFO - Successfully loaded 250 rows for NFLX
+2025-09-16 03:26:27,219 - INFO - Saved combined daily data: 2000 rows
+2025-09-16 03:26:27,220 - INFO - Starting comprehensive analysis for all stocks
+2025-09-16 03:26:27,220 - INFO - Analyzing AAPL
+2025-09-16 03:27:23,557 - INFO - Loading data for 8 stocks with period: 1y
+2025-09-16 03:27:23,557 - INFO - Fetching data for AAPL
+2025-09-16 03:27:23,965 - INFO - Successfully loaded 250 rows for AAPL
+2025-09-16 03:27:23,965 - INFO - Fetching data for MSFT
+2025-09-16 03:27:24,074 - INFO - Successfully loaded 250 rows for MSFT
+2025-09-16 03:27:24,074 - INFO - Fetching data for GOOGL
+2025-09-16 03:27:24,153 - INFO - Successfully loaded 250 rows for GOOGL
+2025-09-16 03:27:24,154 - INFO - Fetching data for AMZN
+2025-09-16 03:27:24,230 - INFO - Successfully loaded 250 rows for AMZN
+2025-09-16 03:27:24,230 - INFO - Fetching data for TSLA
+2025-09-16 03:27:24,323 - INFO - Successfully loaded 250 rows for TSLA
+2025-09-16 03:27:24,323 - INFO - Fetching data for NVDA
+2025-09-16 03:27:24,416 - INFO - Successfully loaded 250 rows for NVDA
+2025-09-16 03:27:24,417 - INFO - Fetching data for META
+2025-09-16 03:27:24,498 - INFO - Successfully loaded 250 rows for META
+2025-09-16 03:27:24,498 - INFO - Fetching data for NFLX
+2025-09-16 03:27:24,565 - INFO - Successfully loaded 250 rows for NFLX
+2025-09-16 03:27:24,635 - INFO - Saved combined daily data: 2000 rows
+2025-09-16 03:27:24,636 - INFO - Starting comprehensive analysis for all stocks
+2025-09-16 03:27:24,636 - INFO - Analyzing AAPL
+2025-09-16 03:28:14,838 - INFO - Loading data for 8 stocks with period: 1y
+2025-09-16 03:28:14,838 - INFO - Fetching data for AAPL
+2025-09-16 03:28:15,230 - INFO - Successfully loaded 250 rows for AAPL
+2025-09-16 03:28:15,230 - INFO - Fetching data for MSFT
+2025-09-16 03:28:15,333 - INFO - Successfully loaded 250 rows for MSFT
+2025-09-16 03:28:15,333 - INFO - Fetching data for GOOGL
+2025-09-16 03:28:15,414 - INFO - Successfully loaded 250 rows for GOOGL
+2025-09-16 03:28:15,414 - INFO - Fetching data for AMZN
+2025-09-16 03:28:15,642 - INFO - Successfully loaded 250 rows for AMZN
+2025-09-16 03:28:15,642 - INFO - Fetching data for TSLA
+2025-09-16 03:28:15,731 - INFO - Successfully loaded 250 rows for TSLA
+2025-09-16 03:28:15,732 - INFO - Fetching data for NVDA
+2025-09-16 03:28:15,838 - INFO - Successfully loaded 250 rows for NVDA
+2025-09-16 03:28:15,838 - INFO - Fetching data for META
+2025-09-16 03:28:15,919 - INFO - Successfully loaded 250 rows for META
+2025-09-16 03:28:15,919 - INFO - Fetching data for NFLX
+2025-09-16 03:28:16,001 - INFO - Successfully loaded 250 rows for NFLX
+2025-09-16 03:28:16,069 - INFO - Saved combined daily data: 2000 rows
+2025-09-16 03:28:16,069 - INFO - Starting comprehensive analysis for all stocks
+2025-09-16 03:28:16,070 - INFO - Analyzing AAPL
+2025-09-16 03:34:48,657 - INFO - Loading data for 8 stocks with period: 1y
+2025-09-16 03:34:48,657 - INFO - Fetching data for AAPL
+2025-09-16 03:34:49,064 - INFO - Successfully loaded 250 rows for AAPL
+2025-09-16 03:34:49,064 - INFO - Fetching data for MSFT
+2025-09-16 03:34:49,171 - INFO - Successfully loaded 250 rows for MSFT
+2025-09-16 03:34:49,172 - INFO - Fetching data for GOOGL
+2025-09-16 03:34:49,281 - INFO - Successfully loaded 250 rows for GOOGL
+2025-09-16 03:34:49,282 - INFO - Fetching data for AMZN
+2025-09-16 03:34:49,353 - INFO - Successfully loaded 250 rows for AMZN
+2025-09-16 03:34:49,353 - INFO - Fetching data for TSLA
+2025-09-16 03:34:49,424 - INFO - Successfully loaded 250 rows for TSLA
+2025-09-16 03:34:49,425 - INFO - Fetching data for NVDA
+2025-09-16 03:34:49,519 - INFO - Successfully loaded 250 rows for NVDA
+2025-09-16 03:34:49,520 - INFO - Fetching data for META
+2025-09-16 03:34:49,630 - INFO - Successfully loaded 250 rows for META
+2025-09-16 03:34:49,630 - INFO - Fetching data for NFLX
+2025-09-16 03:34:49,706 - INFO - Successfully loaded 250 rows for NFLX
+2025-09-16 03:34:49,773 - INFO - Saved combined daily data: 2000 rows
+2025-09-16 03:34:49,774 - INFO - Starting comprehensive analysis for all stocks
+2025-09-16 03:34:49,774 - INFO - Analyzing AAPL
+2025-09-16 03:34:49,781 - INFO - Analyzing MSFT
+2025-09-16 03:34:49,787 - INFO - Analyzing GOOGL
+2025-09-16 03:34:49,796 - INFO - Analyzing AMZN
+2025-09-16 03:34:49,803 - INFO - Analyzing TSLA
+2025-09-16 03:34:49,810 - INFO - Analyzing NVDA
+2025-09-16 03:34:49,817 - INFO - Analyzing META
+2025-09-16 03:34:49,823 - INFO - Analyzing NFLX
+2025-09-16 03:34:49,833 - INFO - Saved SMA analysis to multi_stock_analysis/sma_analysis.csv
+2025-09-16 03:34:49,834 - INFO - Saved runs analysis to multi_stock_analysis/runs_analysis.csv
+2025-09-16 03:34:49,836 - INFO - Saved returns analysis to multi_stock_analysis/returns_analysis.csv
+2025-09-16 03:34:49,837 - INFO - Saved profit analysis to multi_stock_analysis/profit_analysis.csv
+2025-09-16 03:34:49,851 - INFO - Saved correlation matrix to multi_stock_analysis/correlation_matrix.csv
+2025-09-16 03:34:49,852 - INFO - Saved portfolio summary to multi_stock_analysis/portfolio_summary.csv
+2025-09-16 03:34:49,853 - INFO - Running comprehensive validation tests
+2025-09-16 03:34:49,853 - INFO - Validating analysis for AAPL
+2025-09-16 03:34:49,854 - INFO - Validating analysis for MSFT
+2025-09-16 03:34:49,855 - INFO - Validating analysis for GOOGL
+2025-09-16 03:34:49,856 - INFO - Validating analysis for AMZN
+2025-09-16 03:34:49,858 - INFO - Validating analysis for TSLA
+2025-09-16 03:34:49,859 - INFO - Validating analysis for NVDA
+2025-09-16 03:34:49,861 - INFO - Validating analysis for META
+2025-09-16 03:34:49,862 - INFO - Validating analysis for NFLX
+2025-09-16 03:34:49,864 - INFO - Saved validation results to multi_stock_analysis/validation_results.csv
+2025-09-16 03:34:55,038 - INFO - Saved comprehensive dashboard to multi_stock_analysis/comprehensive_dashboard.png
+2025-09-16 03:34:55,038 - INFO - Creating individual chart for AAPL
+2025-09-16 03:34:57,483 - INFO - Saved AAPL chart to multi_stock_analysis/AAPL_detailed_analysis.png
+2025-09-16 03:34:57,484 - INFO - Creating individual chart for MSFT
+2025-09-16 03:34:59,801 - INFO - Saved MSFT chart to multi_stock_analysis/MSFT_detailed_analysis.png
+2025-09-16 03:34:59,801 - INFO - Creating individual chart for GOOGL
+2025-09-16 03:35:02,076 - INFO - Saved GOOGL chart to multi_stock_analysis/GOOGL_detailed_analysis.png
+2025-09-16 03:35:02,076 - INFO - Creating individual chart for AMZN
+2025-09-16 03:35:04,406 - INFO - Saved AMZN chart to multi_stock_analysis/AMZN_detailed_analysis.png
+2025-09-16 03:35:04,406 - INFO - Creating individual chart for TSLA
+2025-09-16 03:35:06,563 - INFO - Saved TSLA chart to multi_stock_analysis/TSLA_detailed_analysis.png
+2025-09-16 03:35:06,563 - INFO - Creating individual chart for NVDA
+2025-09-16 03:35:09,014 - INFO - Saved NVDA chart to multi_stock_analysis/NVDA_detailed_analysis.png
+2025-09-16 03:35:09,014 - INFO - Creating individual chart for META
+2025-09-16 03:35:11,100 - INFO - Saved META chart to multi_stock_analysis/META_detailed_analysis.png
+2025-09-16 03:35:11,100 - INFO - Creating individual chart for NFLX
+2025-09-16 03:35:13,581 - INFO - Saved NFLX chart to multi_stock_analysis/NFLX_detailed_analysis.png
+2025-09-16 03:35:13,582 - INFO - Generating comprehensive HTML report
+2025-09-16 03:35:13,589 - INFO - Saved comprehensive report to multi_stock_analysis/comprehensive_report.html
+2025-09-16 09:20:56,558 - INFO - Loading data for 8 stocks with period: 1y
+2025-09-16 09:20:56,558 - INFO - Fetching data for AAPL
+2025-09-16 09:20:57,411 - INFO - Successfully loaded 250 rows for AAPL
+2025-09-16 09:20:57,411 - INFO - Fetching data for MSFT
+2025-09-16 09:20:57,527 - INFO - Successfully loaded 250 rows for MSFT
+2025-09-16 09:20:57,528 - INFO - Fetching data for GOOGL
+2025-09-16 09:20:57,616 - INFO - Successfully loaded 250 rows for GOOGL
+2025-09-16 09:20:57,617 - INFO - Fetching data for AMZN
+2025-09-16 09:20:57,708 - INFO - Successfully loaded 250 rows for AMZN
+2025-09-16 09:20:57,708 - INFO - Fetching data for TSLA
+2025-09-16 09:20:57,821 - INFO - Successfully loaded 250 rows for TSLA
+2025-09-16 09:20:57,821 - INFO - Fetching data for NVDA
+2025-09-16 09:20:57,926 - INFO - Successfully loaded 250 rows for NVDA
+2025-09-16 09:20:57,927 - INFO - Fetching data for META
+2025-09-16 09:20:58,022 - INFO - Successfully loaded 250 rows for META
+2025-09-16 09:20:58,022 - INFO - Fetching data for NFLX
+2025-09-16 09:20:58,107 - INFO - Successfully loaded 250 rows for NFLX
+2025-09-16 09:20:58,173 - INFO - Saved combined daily data: 2000 rows
+2025-09-16 09:20:58,174 - INFO - Starting comprehensive analysis for all stocks
+2025-09-16 09:20:58,174 - INFO - Analyzing AAPL
+2025-09-16 09:20:58,183 - INFO - Analyzing MSFT
+2025-09-16 09:20:58,193 - INFO - Analyzing GOOGL
+2025-09-16 09:20:58,201 - INFO - Analyzing AMZN
+2025-09-16 09:20:58,208 - INFO - Analyzing TSLA
+2025-09-16 09:20:58,216 - INFO - Analyzing NVDA
+2025-09-16 09:20:58,224 - INFO - Analyzing META
+2025-09-16 09:20:58,232 - INFO - Analyzing NFLX
+2025-09-16 09:20:58,242 - INFO - Saved SMA analysis to multi_stock_analysis/sma_analysis.csv
+2025-09-16 09:20:58,244 - INFO - Saved runs analysis to multi_stock_analysis/runs_analysis.csv
+2025-09-16 09:20:58,246 - INFO - Saved returns analysis to multi_stock_analysis/returns_analysis.csv
+2025-09-16 09:20:58,247 - INFO - Saved profit analysis to multi_stock_analysis/profit_analysis.csv
+2025-09-16 09:20:58,263 - INFO - Saved correlation matrix to multi_stock_analysis/correlation_matrix.csv
+2025-09-16 09:21:44,869 - INFO - Loading data for 8 stocks with period: 1y
+2025-09-16 09:21:44,870 - INFO - Fetching data for AAPL
+2025-09-16 09:21:54,928 - ERROR - 
+1 Failed download:
+2025-09-16 09:21:54,929 - ERROR - ['AAPL']: DNSError('Failed to perform, curl: (6) Could not resolve host: query1.finance.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.')
+2025-09-16 09:21:54,935 - WARNING - No data received for AAPL
+2025-09-16 09:21:54,935 - INFO - Fetching data for MSFT
+2025-09-16 09:22:03,619 - INFO - Loading data for 8 stocks with period: 1y
+2025-09-16 09:22:03,619 - INFO - Fetching data for AAPL
+2025-09-16 09:22:13,794 - ERROR - 
+1 Failed download:
+2025-09-16 09:22:13,795 - ERROR - ['AAPL']: DNSError('Failed to perform, curl: (6) Could not resolve host: query1.finance.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.')
+2025-09-16 09:22:13,799 - WARNING - No data received for AAPL
+2025-09-16 09:22:13,799 - INFO - Fetching data for MSFT
+2025-09-16 09:22:23,818 - ERROR - 
+1 Failed download:
+2025-09-16 09:22:23,818 - ERROR - ['MSFT']: DNSError('Failed to perform, curl: (6) Could not resolve host: query1.finance.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.')
+2025-09-16 09:22:23,822 - WARNING - No data received for MSFT
+2025-09-16 09:22:23,822 - INFO - Fetching data for GOOGL
+2025-09-16 09:22:33,842 - ERROR - 
+1 Failed download:
+2025-09-16 09:22:33,843 - ERROR - ['GOOGL']: DNSError('Failed to perform, curl: (6) Could not resolve host: query1.finance.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.')
+2025-09-16 09:22:33,846 - WARNING - No data received for GOOGL
+2025-09-16 09:22:33,846 - INFO - Fetching data for AMZN
+2025-09-16 09:22:43,871 - ERROR - 
+1 Failed download:
+2025-09-16 09:22:43,871 - ERROR - ['AMZN']: DNSError('Failed to perform, curl: (6) Could not resolve host: query1.finance.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.')
+2025-09-16 09:22:43,874 - WARNING - No data received for AMZN
+2025-09-16 09:22:43,874 - INFO - Fetching data for TSLA
+2025-09-16 09:22:47,255 - INFO - Successfully loaded 250 rows for TSLA
+2025-09-16 09:22:47,255 - INFO - Fetching data for NVDA
+2025-09-16 09:22:47,361 - INFO - Successfully loaded 250 rows for NVDA
+2025-09-16 09:22:47,362 - INFO - Fetching data for META
+2025-09-16 09:22:45,801 - INFO - Successfully loaded 250 rows for META
+2025-09-16 09:22:45,801 - INFO - Fetching data for NFLX
+2025-09-16 09:22:45,899 - INFO - Successfully loaded 250 rows for NFLX
+2025-09-16 09:22:45,940 - INFO - Saved combined daily data: 1000 rows
+2025-09-16 09:22:45,940 - WARNING - Failed to load data for: ['AAPL', 'MSFT', 'GOOGL', 'AMZN']
+2025-09-16 09:22:45,941 - INFO - Starting comprehensive analysis for all stocks
+2025-09-16 09:22:45,941 - INFO - Analyzing TSLA
+2025-09-16 09:22:45,947 - INFO - Analyzing NVDA
+2025-09-16 09:22:45,954 - INFO - Analyzing META
+2025-09-16 09:22:45,960 - INFO - Analyzing NFLX
+2025-09-16 09:22:45,967 - INFO - Saved SMA analysis to multi_stock_analysis/sma_analysis.csv
+2025-09-16 09:22:45,970 - INFO - Saved runs analysis to multi_stock_analysis/runs_analysis.csv
+2025-09-16 09:22:45,972 - INFO - Saved returns analysis to multi_stock_analysis/returns_analysis.csv
+2025-09-16 09:22:45,973 - INFO - Saved profit analysis to multi_stock_analysis/profit_analysis.csv
+2025-09-16 09:22:45,979 - INFO - Saved correlation matrix to multi_stock_analysis/correlation_matrix.csv
+2025-09-16 09:22:45,981 - INFO - Saved portfolio summary to multi_stock_analysis/portfolio_summary.csv
+2025-09-16 09:22:45,981 - INFO - Running comprehensive validation tests
+2025-09-16 09:22:45,981 - INFO - Validating analysis for TSLA
+2025-09-16 09:22:45,982 - INFO - Validating analysis for NVDA
+2025-09-16 09:22:45,984 - INFO - Validating analysis for META
+2025-09-16 09:22:45,986 - INFO - Validating analysis for NFLX
+2025-09-16 09:22:45,989 - INFO - Saved validation results to multi_stock_analysis/validation_results.csv
+2025-09-16 09:22:51,041 - INFO - Saved comprehensive dashboard to multi_stock_analysis/comprehensive_dashboard.png
+2025-09-16 09:22:51,041 - INFO - Creating individual chart for TSLA
+2025-09-16 09:22:52,905 - INFO - Saved TSLA chart to multi_stock_analysis/TSLA_detailed_analysis.png
+2025-09-16 09:22:52,906 - INFO - Creating individual chart for NVDA
+2025-09-16 09:22:55,760 - INFO - Saved NVDA chart to multi_stock_analysis/NVDA_detailed_analysis.png
+2025-09-16 09:22:55,761 - INFO - Creating individual chart for META
+2025-09-16 09:22:58,330 - INFO - Saved META chart to multi_stock_analysis/META_detailed_analysis.png
+2025-09-16 09:22:58,330 - INFO - Creating individual chart for NFLX
+2025-09-16 09:23:02,141 - INFO - Saved NFLX chart to multi_stock_analysis/NFLX_detailed_analysis.png
+2025-09-16 09:23:02,141 - INFO - Generating comprehensive HTML report
+2025-09-16 09:23:02,142 - INFO - Generating comprehensive HTML report
+2025-09-16 09:23:02,162 - INFO - Saved comprehensive report to multi_stock_analysis/comprehensive_report.html
+2025-09-16 09:23:13,897 - INFO - Loading data for 8 stocks with period: 1y
+2025-09-16 09:23:13,898 - INFO - Fetching data for AAPL
+2025-09-16 09:23:14,371 - INFO - Successfully loaded 250 rows for AAPL
+2025-09-16 09:23:14,372 - INFO - Fetching data for MSFT
+2025-09-16 09:23:14,494 - INFO - Successfully loaded 250 rows for MSFT
+2025-09-16 09:23:14,495 - INFO - Fetching data for GOOGL
+2025-09-16 09:23:14,591 - INFO - Successfully loaded 250 rows for GOOGL
+2025-09-16 09:23:14,591 - INFO - Fetching data for AMZN
+2025-09-16 09:23:14,691 - INFO - Successfully loaded 250 rows for AMZN
+2025-09-16 09:23:14,692 - INFO - Fetching data for TSLA
+2025-09-16 09:23:14,794 - INFO - Successfully loaded 250 rows for TSLA
+2025-09-16 09:23:14,794 - INFO - Fetching data for NVDA
+2025-09-16 09:23:14,905 - INFO - Successfully loaded 250 rows for NVDA
+2025-09-16 09:23:14,905 - INFO - Fetching data for META
+2025-09-16 09:23:15,006 - INFO - Successfully loaded 250 rows for META
+2025-09-16 09:23:15,006 - INFO - Fetching data for NFLX
+2025-09-16 09:23:15,105 - INFO - Successfully loaded 250 rows for NFLX
+2025-09-16 09:23:15,181 - INFO - Saved combined daily data: 2000 rows
+2025-09-16 09:23:15,182 - INFO - Starting comprehensive analysis for all stocks
+2025-09-16 09:23:15,182 - INFO - Analyzing AAPL
+2025-09-16 09:23:15,190 - INFO - Analyzing MSFT
+2025-09-16 09:23:15,197 - INFO - Analyzing GOOGL
+2025-09-16 09:23:15,208 - INFO - Analyzing AMZN
+2025-09-16 09:23:15,217 - INFO - Analyzing TSLA
+2025-09-16 09:23:15,225 - INFO - Analyzing NVDA
+2025-09-16 09:23:15,235 - INFO - Analyzing META
+2025-09-16 09:23:15,242 - INFO - Analyzing NFLX
+2025-09-16 09:23:15,256 - INFO - Saved SMA analysis to multi_stock_analysis/sma_analysis.csv
+2025-09-16 09:23:15,258 - INFO - Saved runs analysis to multi_stock_analysis/runs_analysis.csv
+2025-09-16 09:23:15,260 - INFO - Saved returns analysis to multi_stock_analysis/returns_analysis.csv
+2025-09-16 09:23:15,262 - INFO - Saved profit analysis to multi_stock_analysis/profit_analysis.csv
+2025-09-16 09:23:15,277 - INFO - Saved correlation matrix to multi_stock_analysis/correlation_matrix.csv
+2025-09-16 09:23:15,279 - INFO - Saved portfolio summary to multi_stock_analysis/portfolio_summary.csv
+2025-09-16 09:23:15,280 - INFO - Running comprehensive validation tests
+2025-09-16 09:23:15,280 - INFO - Validating analysis for AAPL
+2025-09-16 09:23:15,282 - INFO - Validating analysis for MSFT
+2025-09-16 09:23:15,284 - INFO - Validating analysis for GOOGL
+2025-09-16 09:23:15,285 - INFO - Validating analysis for AMZN
+2025-09-16 09:23:15,287 - INFO - Validating analysis for TSLA
+2025-09-16 09:23:15,289 - INFO - Validating analysis for NVDA
+2025-09-16 09:23:15,290 - INFO - Validating analysis for META
+2025-09-16 09:23:15,292 - INFO - Validating analysis for NFLX
+2025-09-16 09:23:15,295 - INFO - Saved validation results to multi_stock_analysis/validation_results.csv
+2025-09-16 09:23:19,168 - INFO - Saved comprehensive dashboard to multi_stock_analysis/comprehensive_dashboard.png
+2025-09-16 09:23:19,169 - INFO - Creating individual chart for AAPL
+2025-09-16 09:23:21,583 - INFO - Saved AAPL chart to multi_stock_analysis/AAPL_detailed_analysis.png
+2025-09-16 09:23:21,583 - INFO - Creating individual chart for MSFT
+2025-09-16 09:23:23,993 - INFO - Saved MSFT chart to multi_stock_analysis/MSFT_detailed_analysis.png
+2025-09-16 09:23:23,994 - INFO - Creating individual chart for GOOGL
+2025-09-16 09:23:26,346 - INFO - Saved GOOGL chart to multi_stock_analysis/GOOGL_detailed_analysis.png
+2025-09-16 09:23:26,347 - INFO - Creating individual chart for AMZN
+2025-09-16 09:23:28,750 - INFO - Saved AMZN chart to multi_stock_analysis/AMZN_detailed_analysis.png
+2025-09-16 09:23:28,751 - INFO - Creating individual chart for TSLA
+2025-09-16 09:23:31,102 - INFO - Saved TSLA chart to multi_stock_analysis/TSLA_detailed_analysis.png
+2025-09-16 09:23:31,102 - INFO - Creating individual chart for NVDA
+2025-09-16 09:23:33,640 - INFO - Saved NVDA chart to multi_stock_analysis/NVDA_detailed_analysis.png
+2025-09-16 09:23:33,641 - INFO - Creating individual chart for META
+2025-09-16 09:23:36,101 - INFO - Saved META chart to multi_stock_analysis/META_detailed_analysis.png
+2025-09-16 09:23:36,101 - INFO - Creating individual chart for NFLX
+2025-09-16 09:23:38,471 - INFO - Saved NFLX chart to multi_stock_analysis/NFLX_detailed_analysis.png
+2025-09-16 09:23:38,472 - INFO - Generating comprehensive HTML report
+2025-09-16 09:23:38,472 - INFO - Generating comprehensive HTML report
+2025-09-16 09:23:38,493 - INFO - Saved comprehensive report to multi_stock_analysis/comprehensive_report.html
+2025-09-16 09:28:16,296 - INFO - Loading data for 8 stocks with period: 1y
+2025-09-16 09:28:16,296 - INFO - Fetching data for AAPL
+2025-09-16 09:28:16,714 - INFO - Successfully loaded 250 rows for AAPL
+2025-09-16 09:28:16,714 - INFO - Fetching data for MSFT
+2025-09-16 09:28:16,821 - INFO - Successfully loaded 250 rows for MSFT
+2025-09-16 09:28:16,821 - INFO - Fetching data for GOOGL
+2025-09-16 09:28:16,910 - INFO - Successfully loaded 250 rows for GOOGL
+2025-09-16 09:28:16,910 - INFO - Fetching data for AMZN
+2025-09-16 09:28:17,001 - INFO - Successfully loaded 250 rows for AMZN
+2025-09-16 09:28:17,002 - INFO - Fetching data for TSLA
+2025-09-16 09:28:17,086 - INFO - Successfully loaded 250 rows for TSLA
+2025-09-16 09:28:17,087 - INFO - Fetching data for NVDA
+2025-09-16 09:28:17,183 - INFO - Successfully loaded 250 rows for NVDA
+2025-09-16 09:28:17,183 - INFO - Fetching data for META
+2025-09-16 09:28:17,273 - INFO - Successfully loaded 250 rows for META
+2025-09-16 09:28:17,274 - INFO - Fetching data for NFLX
+2025-09-16 09:28:17,389 - INFO - Successfully loaded 250 rows for NFLX
+2025-09-16 09:28:17,457 - INFO - Saved combined daily data: 2000 rows
+2025-09-16 09:28:17,458 - INFO - Starting comprehensive analysis for all stocks
+2025-09-16 09:28:17,458 - INFO - Analyzing AAPL
+2025-09-16 09:28:17,466 - INFO - Analyzing MSFT
+2025-09-16 09:28:17,473 - INFO - Analyzing GOOGL
+2025-09-16 09:28:17,480 - INFO - Analyzing AMZN
+2025-09-16 09:28:17,490 - INFO - Analyzing TSLA
+2025-09-16 09:28:17,497 - INFO - Analyzing NVDA
+2025-09-16 09:28:17,505 - INFO - Analyzing META
+2025-09-16 09:28:17,513 - INFO - Analyzing NFLX
+2025-09-16 09:28:17,521 - INFO - Saved SMA analysis to multi_stock_analysis/sma_analysis.csv
+2025-09-16 09:28:17,524 - INFO - Saved runs analysis to multi_stock_analysis/runs_analysis.csv
+2025-09-16 09:28:17,527 - INFO - Saved returns analysis to multi_stock_analysis/returns_analysis.csv
+2025-09-16 09:28:17,529 - INFO - Saved profit analysis to multi_stock_analysis/profit_analysis.csv
+2025-09-16 09:28:17,544 - INFO - Saved correlation matrix to multi_stock_analysis/correlation_matrix.csv
+2025-09-16 09:28:17,546 - INFO - Saved portfolio summary to multi_stock_analysis/portfolio_summary.csv
+2025-09-16 09:28:17,546 - INFO - Running comprehensive validation tests
+2025-09-16 09:28:17,546 - INFO - Validating analysis for AAPL
+2025-09-16 09:28:17,548 - INFO - Validating analysis for MSFT
+2025-09-16 09:28:17,549 - INFO - Validating analysis for GOOGL
+2025-09-16 09:28:17,550 - INFO - Validating analysis for AMZN
+2025-09-16 09:28:17,551 - INFO - Validating analysis for TSLA
+2025-09-16 09:28:17,552 - INFO - Validating analysis for NVDA
+2025-09-16 09:28:17,554 - INFO - Validating analysis for META
+2025-09-16 09:28:17,556 - INFO - Validating analysis for NFLX
+2025-09-16 09:28:17,559 - INFO - Saved validation results to multi_stock_analysis/validation_results.csv
+2025-09-16 09:28:23,046 - INFO - Saved comprehensive dashboard to multi_stock_analysis/comprehensive_dashboard.png
+2025-09-16 09:28:23,047 - INFO - Creating individual chart for AAPL
+2025-09-16 09:28:25,562 - INFO - Saved AAPL chart to multi_stock_analysis/AAPL_detailed_analysis.png
+2025-09-16 09:28:25,562 - INFO - Creating individual chart for MSFT
+2025-09-16 09:28:28,002 - INFO - Saved MSFT chart to multi_stock_analysis/MSFT_detailed_analysis.png
+2025-09-16 09:28:28,003 - INFO - Creating individual chart for GOOGL
+2025-09-16 09:28:30,327 - INFO - Saved GOOGL chart to multi_stock_analysis/GOOGL_detailed_analysis.png
+2025-09-16 09:28:30,327 - INFO - Creating individual chart for AMZN
+2025-09-16 09:28:32,746 - INFO - Saved AMZN chart to multi_stock_analysis/AMZN_detailed_analysis.png
+2025-09-16 09:28:32,747 - INFO - Creating individual chart for TSLA
+2025-09-16 09:28:34,992 - INFO - Saved TSLA chart to multi_stock_analysis/TSLA_detailed_analysis.png
+2025-09-16 09:28:34,993 - INFO - Creating individual chart for NVDA
+2025-09-16 09:28:37,442 - INFO - Saved NVDA chart to multi_stock_analysis/NVDA_detailed_analysis.png
+2025-09-16 09:28:37,442 - INFO - Creating individual chart for META
+2025-09-16 09:28:39,779 - INFO - Saved META chart to multi_stock_analysis/META_detailed_analysis.png
+2025-09-16 09:28:39,779 - INFO - Creating individual chart for NFLX
+2025-09-16 09:28:40,352 - INFO - Saved NFLX chart to multi_stock_analysis/NFLX_detailed_analysis.png
+2025-09-16 09:28:40,353 - INFO - Generating comprehensive HTML report
+2025-09-16 09:28:40,353 - INFO - Generating comprehensive interactive HTML report
+2025-09-16 09:29:57,894 - INFO - Loading data for 8 stocks with period: 1y
+2025-09-16 09:29:57,894 - INFO - Fetching data for AAPL
+2025-09-16 09:29:58,332 - INFO - Successfully loaded 250 rows for AAPL
+2025-09-16 09:29:58,332 - INFO - Fetching data for MSFT
+2025-09-16 09:29:58,461 - INFO - Successfully loaded 250 rows for MSFT
+2025-09-16 09:29:58,461 - INFO - Fetching data for GOOGL
+2025-09-16 09:29:58,554 - INFO - Successfully loaded 250 rows for GOOGL
+2025-09-16 09:29:58,554 - INFO - Fetching data for AMZN
+2025-09-16 09:29:58,650 - INFO - Successfully loaded 250 rows for AMZN
+2025-09-16 09:29:58,650 - INFO - Fetching data for TSLA
+2025-09-16 09:29:58,744 - INFO - Successfully loaded 250 rows for TSLA
+2025-09-16 09:29:58,745 - INFO - Fetching data for NVDA
+2025-09-16 09:29:58,870 - INFO - Successfully loaded 250 rows for NVDA
+2025-09-16 09:29:58,871 - INFO - Fetching data for META
+2025-09-16 09:29:58,973 - INFO - Successfully loaded 250 rows for META
+2025-09-16 09:29:58,973 - INFO - Fetching data for NFLX
+2025-09-16 09:29:59,074 - INFO - Successfully loaded 250 rows for NFLX
+2025-09-16 09:29:59,141 - INFO - Saved combined daily data: 2000 rows
+2025-09-16 09:29:59,142 - INFO - Starting comprehensive analysis for all stocks
+2025-09-16 09:29:59,142 - INFO - Analyzing AAPL
+2025-09-16 09:29:59,150 - INFO - Analyzing MSFT
+2025-09-16 09:29:59,158 - INFO - Analyzing GOOGL
+2025-09-16 09:29:59,169 - INFO - Analyzing AMZN
+2025-09-16 09:29:59,177 - INFO - Analyzing TSLA
+2025-09-16 09:29:59,185 - INFO - Analyzing NVDA
+2025-09-16 09:29:59,194 - INFO - Analyzing META
+2025-09-16 09:29:59,201 - INFO - Analyzing NFLX
+2025-09-16 09:29:59,213 - INFO - Saved SMA analysis to multi_stock_analysis/sma_analysis.csv
+2025-09-16 09:29:59,215 - INFO - Saved runs analysis to multi_stock_analysis/runs_analysis.csv
+2025-09-16 09:29:59,218 - INFO - Saved returns analysis to multi_stock_analysis/returns_analysis.csv
+2025-09-16 09:29:59,220 - INFO - Saved profit analysis to multi_stock_analysis/profit_analysis.csv
+2025-09-16 09:29:59,236 - INFO - Saved correlation matrix to multi_stock_analysis/correlation_matrix.csv
+2025-09-16 09:29:59,240 - INFO - Saved portfolio summary to multi_stock_analysis/portfolio_summary.csv
+2025-09-16 09:29:59,240 - INFO - Running comprehensive validation tests
+2025-09-16 09:29:59,241 - INFO - Validating analysis for AAPL
+2025-09-16 09:29:59,243 - INFO - Validating analysis for MSFT
+2025-09-16 09:29:59,245 - INFO - Validating analysis for GOOGL
+2025-09-16 09:29:59,246 - INFO - Validating analysis for AMZN
+2025-09-16 09:29:59,247 - INFO - Validating analysis for TSLA
+2025-09-16 09:29:59,249 - INFO - Validating analysis for NVDA
+2025-09-16 09:29:59,250 - INFO - Validating analysis for META
+2025-09-16 09:29:59,252 - INFO - Validating analysis for NFLX
+2025-09-16 09:29:59,256 - INFO - Saved validation results to multi_stock_analysis/validation_results.csv
+2025-09-16 09:30:04,800 - INFO - Saved comprehensive dashboard to multi_stock_analysis/comprehensive_dashboard.png
+2025-09-16 09:30:04,801 - INFO - Creating individual chart for AAPL
+2025-09-16 09:30:07,024 - INFO - Saved AAPL chart to multi_stock_analysis/AAPL_detailed_analysis.png
+2025-09-16 09:30:07,024 - INFO - Creating individual chart for MSFT
+2025-09-16 09:30:09,480 - INFO - Saved MSFT chart to multi_stock_analysis/MSFT_detailed_analysis.png
+2025-09-16 09:30:09,481 - INFO - Creating individual chart for GOOGL
+2025-09-16 09:30:11,805 - INFO - Saved GOOGL chart to multi_stock_analysis/GOOGL_detailed_analysis.png
+2025-09-16 09:30:11,806 - INFO - Creating individual chart for AMZN
+2025-09-16 09:30:14,075 - INFO - Saved AMZN chart to multi_stock_analysis/AMZN_detailed_analysis.png
+2025-09-16 09:30:14,076 - INFO - Creating individual chart for TSLA
+2025-09-16 09:30:16,320 - INFO - Saved TSLA chart to multi_stock_analysis/TSLA_detailed_analysis.png
+2025-09-16 09:30:16,321 - INFO - Creating individual chart for NVDA
+2025-09-16 09:30:18,816 - INFO - Saved NVDA chart to multi_stock_analysis/NVDA_detailed_analysis.png
+2025-09-16 09:30:18,816 - INFO - Creating individual chart for META
+2025-09-16 09:30:21,176 - INFO - Saved META chart to multi_stock_analysis/META_detailed_analysis.png
+2025-09-16 09:30:21,177 - INFO - Creating individual chart for NFLX
+2025-09-16 09:30:23,592 - INFO - Saved NFLX chart to multi_stock_analysis/NFLX_detailed_analysis.png
+2025-09-16 09:30:23,593 - INFO - Generating comprehensive HTML report
+2025-09-16 09:30:23,593 - INFO - Generating comprehensive interactive HTML report
+2025-09-16 09:30:23,620 - INFO - Saved enhanced interactive report to multi_stock_analysis/comprehensive_report.html
+2025-09-18 11:21:58,482 - INFO - Loading data for 8 stocks with period: 1y
+2025-09-18 11:21:58,483 - INFO - Fetching data for AAPL
+2025-09-18 11:21:58,906 - INFO - Successfully loaded 250 rows for AAPL
+2025-09-18 11:21:58,906 - INFO - Fetching data for MSFT
+2025-09-18 11:21:59,046 - INFO - Successfully loaded 250 rows for MSFT
+2025-09-18 11:21:59,046 - INFO - Fetching data for GOOGL
+2025-09-18 11:21:59,124 - INFO - Successfully loaded 250 rows for GOOGL
+2025-09-18 11:21:59,124 - INFO - Fetching data for AMZN
+2025-09-18 11:21:59,200 - INFO - Successfully loaded 250 rows for AMZN
+2025-09-18 11:21:59,200 - INFO - Fetching data for TSLA
+2025-09-18 11:21:59,287 - INFO - Successfully loaded 250 rows for TSLA
+2025-09-18 11:21:59,287 - INFO - Fetching data for NVDA
+2025-09-18 11:21:59,394 - INFO - Successfully loaded 250 rows for NVDA
+2025-09-18 11:21:59,394 - INFO - Fetching data for META
+2025-09-18 11:21:59,485 - INFO - Successfully loaded 250 rows for META
+2025-09-18 11:21:59,485 - INFO - Fetching data for NFLX
+2025-09-18 11:21:59,571 - INFO - Successfully loaded 250 rows for NFLX
+2025-09-18 11:21:59,638 - INFO - Saved combined daily data: 2000 rows
+2025-09-18 11:21:59,639 - INFO - Starting comprehensive analysis for all stocks
+2025-09-18 11:21:59,639 - INFO - Analyzing AAPL
+2025-09-18 11:21:59,649 - INFO - Analyzing MSFT
+2025-09-18 11:21:59,656 - INFO - Analyzing GOOGL
+2025-09-18 11:21:59,663 - INFO - Analyzing AMZN
+2025-09-18 11:21:59,674 - INFO - Analyzing TSLA
+2025-09-18 11:21:59,680 - INFO - Analyzing NVDA
+2025-09-18 11:21:59,687 - INFO - Analyzing META
+2025-09-18 11:21:59,693 - INFO - Analyzing NFLX
+2025-09-18 11:21:59,703 - INFO - Saved SMA analysis to multi_stock_analysis/sma_analysis.csv
+2025-09-18 11:21:59,706 - INFO - Saved runs analysis to multi_stock_analysis/runs_analysis.csv
+2025-09-18 11:21:59,709 - INFO - Saved returns analysis to multi_stock_analysis/returns_analysis.csv
+2025-09-18 11:21:59,711 - INFO - Saved profit analysis to multi_stock_analysis/profit_analysis.csv
+2025-09-18 11:21:59,724 - INFO - Saved correlation matrix to multi_stock_analysis/correlation_matrix.csv
+2025-09-18 11:21:59,726 - INFO - Saved portfolio summary to multi_stock_analysis/portfolio_summary.csv
+2025-09-18 11:21:59,726 - INFO - Running comprehensive validation tests
+2025-09-18 11:21:59,727 - INFO - Validating analysis for AAPL
+2025-09-18 11:21:59,728 - INFO - Validating analysis for MSFT
+2025-09-18 11:21:59,729 - INFO - Validating analysis for GOOGL
+2025-09-18 11:21:59,730 - INFO - Validating analysis for AMZN
+2025-09-18 11:21:59,731 - INFO - Validating analysis for TSLA
+2025-09-18 11:21:59,732 - INFO - Validating analysis for NVDA
+2025-09-18 11:21:59,735 - INFO - Validating analysis for META
+2025-09-18 11:21:59,736 - INFO - Validating analysis for NFLX
+2025-09-18 11:21:59,740 - INFO - Saved validation results to multi_stock_analysis/validation_results.csv
+2025-09-18 11:22:04,855 - INFO - Saved comprehensive dashboard to multi_stock_analysis/comprehensive_dashboard.png
+2025-09-18 11:22:04,855 - INFO - Creating individual chart for AAPL
+2025-09-18 11:22:07,067 - INFO - Saved AAPL chart to multi_stock_analysis/AAPL_detailed_analysis.png
+2025-09-18 11:22:07,067 - INFO - Creating individual chart for MSFT
+2025-09-18 11:22:09,315 - INFO - Saved MSFT chart to multi_stock_analysis/MSFT_detailed_analysis.png
+2025-09-18 11:22:09,315 - INFO - Creating individual chart for GOOGL
+2025-09-18 11:22:11,451 - INFO - Saved GOOGL chart to multi_stock_analysis/GOOGL_detailed_analysis.png
+2025-09-18 11:22:11,451 - INFO - Creating individual chart for AMZN
+2025-09-18 11:22:13,723 - INFO - Saved AMZN chart to multi_stock_analysis/AMZN_detailed_analysis.png
+2025-09-18 11:22:13,724 - INFO - Creating individual chart for TSLA
+2025-09-18 11:22:16,362 - INFO - Saved TSLA chart to multi_stock_analysis/TSLA_detailed_analysis.png
+2025-09-18 11:22:16,363 - INFO - Creating individual chart for NVDA
+2025-09-18 11:22:18,721 - INFO - Saved NVDA chart to multi_stock_analysis/NVDA_detailed_analysis.png
+2025-09-18 11:22:18,721 - INFO - Creating individual chart for META
+2025-09-18 11:22:20,838 - INFO - Saved META chart to multi_stock_analysis/META_detailed_analysis.png
+2025-09-18 11:22:20,838 - INFO - Creating individual chart for NFLX
+2025-09-18 11:22:23,174 - INFO - Saved NFLX chart to multi_stock_analysis/NFLX_detailed_analysis.png
+2025-09-18 11:22:23,175 - INFO - Generating comprehensive HTML report
+2025-09-18 11:22:23,175 - INFO - Generating comprehensive interactive HTML report
+2025-09-18 11:22:23,203 - INFO - Saved enhanced interactive report to multi_stock_analysis/comprehensive_report.html

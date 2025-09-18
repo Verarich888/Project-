@@ -1,0 +1,98 @@
+2025-09-16 01:56:40,484 - INFO - Starting stock data fetching pipeline
+2025-09-16 01:56:40,485 - INFO - Tickers: ['AAPL', 'MSFT', 'GOOGL', 'AMZN', 'TSLA', 'NVDA', 'META', 'NFLX']
+2025-09-16 01:56:40,485 - INFO - Period: 3 years
+2025-09-16 01:56:40,485 - INFO - Interval: 1d
+2025-09-16 01:56:40,485 - INFO - Fetching AAPL (attempt 1/3)
+2025-09-16 01:56:40,963 - ERROR - AAPL (attempt 1): Index(['Ticker', 'Date'], dtype='object')
+2025-09-16 01:56:43,032 - INFO - Fetching AAPL (attempt 2/3)
+2025-09-16 01:56:43,218 - ERROR - AAPL (attempt 2): Index(['Ticker', 'Date'], dtype='object')
+2025-09-16 01:56:45,272 - INFO - Fetching AAPL (attempt 3/3)
+2025-09-16 01:56:45,445 - ERROR - AAPL (attempt 3): Index(['Ticker', 'Date'], dtype='object')
+2025-09-16 01:56:45,446 - ERROR - AAPL: Failed after 3 attempts
+2025-09-16 01:56:45,970 - INFO - Fetching MSFT (attempt 1/3)
+2025-09-16 01:56:46,144 - ERROR - MSFT (attempt 1): Index(['Ticker', 'Date'], dtype='object')
+2025-09-16 01:56:48,188 - INFO - Fetching MSFT (attempt 2/3)
+2025-09-16 01:56:48,363 - ERROR - MSFT (attempt 2): Index(['Ticker', 'Date'], dtype='object')
+2025-09-16 01:56:50,429 - INFO - Fetching MSFT (attempt 3/3)
+2025-09-16 01:56:50,604 - ERROR - MSFT (attempt 3): Index(['Ticker', 'Date'], dtype='object')
+2025-09-16 01:56:50,604 - ERROR - MSFT: Failed after 3 attempts
+2025-09-16 01:56:51,117 - INFO - Fetching GOOGL (attempt 1/3)
+2025-09-16 01:56:51,282 - ERROR - GOOGL (attempt 1): Index(['Ticker', 'Date'], dtype='object')
+2025-09-16 01:56:53,286 - INFO - Fetching GOOGL (attempt 2/3)
+2025-09-16 01:56:53,391 - ERROR - GOOGL (attempt 2): Index(['Ticker', 'Date'], dtype='object')
+2025-09-16 01:56:52,907 - INFO - Fetching GOOGL (attempt 3/3)
+2025-09-16 01:56:53,027 - ERROR - GOOGL (attempt 3): Index(['Ticker', 'Date'], dtype='object')
+2025-09-16 01:56:53,028 - ERROR - GOOGL: Failed after 3 attempts
+2025-09-16 01:56:53,570 - INFO - Fetching AMZN (attempt 1/3)
+2025-09-16 01:56:53,712 - ERROR - AMZN (attempt 1): Index(['Ticker', 'Date'], dtype='object')
+2025-09-16 01:56:55,795 - INFO - Fetching AMZN (attempt 2/3)
+2025-09-16 01:56:55,919 - ERROR - AMZN (attempt 2): Index(['Ticker', 'Date'], dtype='object')
+2025-09-16 01:56:58,070 - INFO - Fetching AMZN (attempt 3/3)
+2025-09-16 01:56:58,178 - ERROR - AMZN (attempt 3): Index(['Ticker', 'Date'], dtype='object')
+2025-09-16 01:56:58,178 - ERROR - AMZN: Failed after 3 attempts
+2025-09-16 01:56:58,721 - INFO - Fetching TSLA (attempt 1/3)
+2025-09-16 01:56:58,827 - ERROR - TSLA (attempt 1): Index(['Ticker', 'Date'], dtype='object')
+2025-09-16 01:57:00,990 - INFO - Fetching TSLA (attempt 2/3)
+2025-09-16 01:57:01,103 - ERROR - TSLA (attempt 2): Index(['Ticker', 'Date'], dtype='object')
+2025-09-16 01:57:03,185 - INFO - Fetching TSLA (attempt 3/3)
+2025-09-16 01:57:03,293 - ERROR - TSLA (attempt 3): Index(['Ticker', 'Date'], dtype='object')
+2025-09-16 01:57:03,293 - ERROR - TSLA: Failed after 3 attempts
+2025-09-16 01:57:03,836 - INFO - Fetching NVDA (attempt 1/3)
+2025-09-16 01:57:04,017 - ERROR - NVDA (attempt 1): Index(['Ticker', 'Date'], dtype='object')
+2025-09-16 01:57:06,057 - INFO - Fetching NVDA (attempt 2/3)
+2025-09-16 01:57:06,238 - ERROR - NVDA (attempt 2): Index(['Ticker', 'Date'], dtype='object')
+2025-09-16 01:57:08,244 - INFO - Fetching NVDA (attempt 3/3)
+2025-09-16 01:57:08,399 - ERROR - NVDA (attempt 3): Index(['Ticker', 'Date'], dtype='object')
+2025-09-16 01:57:08,399 - ERROR - NVDA: Failed after 3 attempts
+2025-09-16 01:57:08,942 - INFO - Fetching META (attempt 1/3)
+2025-09-16 01:57:09,108 - ERROR - META (attempt 1): Index(['Ticker', 'Date'], dtype='object')
+2025-09-16 01:57:11,195 - INFO - Fetching META (attempt 2/3)
+2025-09-16 01:57:11,388 - ERROR - META (attempt 2): Index(['Ticker', 'Date'], dtype='object')
+2025-09-16 01:57:13,406 - INFO - Fetching META (attempt 3/3)
+2025-09-16 01:57:13,514 - ERROR - META (attempt 3): Index(['Ticker', 'Date'], dtype='object')
+2025-09-16 01:57:13,514 - ERROR - META: Failed after 3 attempts
+2025-09-16 01:57:14,057 - INFO - Fetching NFLX (attempt 1/3)
+2025-09-16 01:57:14,224 - ERROR - NFLX (attempt 1): Index(['Ticker', 'Date'], dtype='object')
+2025-09-16 01:57:16,227 - INFO - Fetching NFLX (attempt 2/3)
+2025-09-16 01:57:16,334 - ERROR - NFLX (attempt 2): Index(['Ticker', 'Date'], dtype='object')
+2025-09-16 01:57:18,346 - INFO - Fetching NFLX (attempt 3/3)
+2025-09-16 01:57:18,461 - ERROR - NFLX (attempt 3): Index(['Ticker', 'Date'], dtype='object')
+2025-09-16 01:57:18,461 - ERROR - NFLX: Failed after 3 attempts
+2025-09-16 01:57:18,974 - ERROR - No data was successfully fetched
+2025-09-16 01:57:18,975 - ERROR - Pipeline failed
+2025-09-16 02:08:10,359 - INFO - Starting stock data fetching pipeline
+2025-09-16 02:08:10,360 - INFO - Tickers: ['AAPL', 'MSFT', 'GOOGL', 'AMZN', 'TSLA', 'NVDA', 'META', 'NFLX']
+2025-09-16 02:08:10,360 - INFO - Period: 3 years
+2025-09-16 02:08:10,360 - INFO - Interval: 1d
+2025-09-16 02:08:10,360 - INFO - Fetching AAPL (attempt 1/3)
+2025-09-16 02:08:10,832 - INFO - AAPL: Successfully fetched 752 rows
+2025-09-16 02:08:10,887 - INFO - Saved CSV: stock_data/AAPL_data.csv
+2025-09-16 02:08:11,419 - INFO - Fetching MSFT (attempt 1/3)
+2025-09-16 02:08:11,567 - INFO - MSFT: Successfully fetched 752 rows
+2025-09-16 02:08:11,622 - INFO - Saved CSV: stock_data/MSFT_data.csv
+2025-09-16 02:08:12,131 - INFO - Fetching GOOGL (attempt 1/3)
+2025-09-16 02:08:12,249 - INFO - GOOGL: Successfully fetched 752 rows
+2025-09-16 02:08:12,300 - INFO - Saved CSV: stock_data/GOOGL_data.csv
+2025-09-16 02:08:12,818 - INFO - Fetching AMZN (attempt 1/3)
+2025-09-16 02:08:12,939 - INFO - AMZN: Successfully fetched 752 rows
+2025-09-16 02:08:12,979 - INFO - Saved CSV: stock_data/AMZN_data.csv
+2025-09-16 02:08:13,489 - INFO - Fetching TSLA (attempt 1/3)
+2025-09-16 02:08:13,611 - INFO - TSLA: Successfully fetched 752 rows
+2025-09-16 02:08:13,655 - INFO - Saved CSV: stock_data/TSLA_data.csv
+2025-09-16 02:08:14,156 - INFO - Fetching NVDA (attempt 1/3)
+2025-09-16 02:08:14,291 - INFO - NVDA: Successfully fetched 752 rows
+2025-09-16 02:08:14,340 - INFO - Saved CSV: stock_data/NVDA_data.csv
+2025-09-16 02:08:14,851 - INFO - Fetching META (attempt 1/3)
+2025-09-16 02:08:14,982 - INFO - META: Successfully fetched 752 rows
+2025-09-16 02:08:15,028 - INFO - Saved CSV: stock_data/META_data.csv
+2025-09-16 02:08:15,537 - INFO - Fetching NFLX (attempt 1/3)
+2025-09-16 02:08:15,642 - INFO - NFLX: Successfully fetched 752 rows
+2025-09-16 02:08:15,686 - INFO - Saved CSV: stock_data/NFLX_data.csv
+2025-09-16 02:08:16,192 - INFO - Combined dataset: 6016 rows
+2025-09-16 02:08:16,448 - INFO - Saved CSV: stock_data/combined_stock_data.csv
+2025-09-16 02:08:16,475 - INFO - Saved CSV: stock_data/summary_statistics.csv
+2025-09-16 02:08:16,483 - INFO - Saved CSV: stock_data/correlation_matrix.csv
+2025-09-16 02:08:16,484 - INFO - Analysis reports generated
+2025-09-16 02:08:16,484 - INFO - Successfully processed: ['AAPL', 'MSFT', 'GOOGL', 'AMZN', 'TSLA', 'NVDA', 'META', 'NFLX']
+2025-09-16 02:08:16,484 - INFO - All outputs saved to: stock_data
+2025-09-16 02:08:16,487 - INFO - Pipeline completed successfully

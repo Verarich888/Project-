@@ -1,0 +1,291 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Stock Analysis Report - Test</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 40px;
+            line-height: 1.6;
+            background-color: #f8f9fa;
+        }
+        .container {
+            max-width: 1200px;
+            margin: 0 auto;
+            background-color: white;
+            padding: 30px;
+            border-radius: 10px;
+            box-shadow: 0 0 20px rgba(0,0,0,0.1);
+        }
+        .header {
+            text-align: center;
+            color: #2c3e50;
+            border-bottom: 3px solid #3498db;
+            padding-bottom: 20px;
+            margin-bottom: 30px;
+        }
+        .summary {
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            color: white;
+            padding: 20px;
+            border-radius: 10px;
+            margin-bottom: 30px;
+        }
+        .metrics {
+            display: flex;
+            justify-content: space-around;
+            flex-wrap: wrap;
+            margin: 20px 0;
+        }
+        .metric {
+            text-align: center;
+            margin: 10px;
+            padding: 15px;
+            background-color: rgba(255,255,255,0.1);
+            border-radius: 8px;
+            min-width: 150px;
+        }
+        .metric-value {
+            font-size: 28px;
+            font-weight: bold;
+            margin-bottom: 5px;
+        }
+        .metric-label {
+            font-size: 14px;
+            opacity: 0.9;
+        }
+        table {
+            width: 100%;
+            border-collapse: collapse;
+            margin: 20px 0;
+            background-color: white;
+        }
+        th, td {
+            border: 1px solid #ddd;
+            padding: 12px;
+            text-align: left;
+        }
+        th {
+            background-color: #3498db;
+            color: white;
+            font-weight: bold;
+        }
+        tr:nth-child(even) {
+            background-color: #f2f2f2;
+        }
+        .positive { color: #27ae60; font-weight: bold; }
+        .negative { color: #e74c3c; font-weight: bold; }
+        .neutral { color: #7f8c8d; }
+        .insights {
+            background-color: #ecf0f1;
+            padding: 20px;
+            border-radius: 10px;
+            border-left: 5px solid #3498db;
+        }
+        .status { 
+            padding: 10px; 
+            background-color: #d4edda; 
+            border: 1px solid #c3e6cb; 
+            border-radius: 5px; 
+            color: #155724; 
+            margin-bottom: 20px;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <div class="header">
+            <h1>📊 Stock Portfolio Analysis Report</h1>
+            <p>Generated on 2025-09-16 at 03:01:22</p>
+        </div>
+        
+        <div class="status">
+            <strong>✅ Report Status:</strong> Successfully generated from 8 stocks
+        </div>
+        
+        <div class="summary">
+            <h2>📈 Portfolio Overview</h2>
+            <div class="metrics">
+                <div class="metric">
+                    <div class="metric-value">8</div>
+                    <div class="metric-label">Total Stocks</div>
+                </div>
+                <div class="metric">
+                    <div class="metric-value positive">317.57%</div>
+                    <div class="metric-label">Average Return</div>
+                </div>
+                <div class="metric">
+                    <div class="metric-value">39.17%</div>
+                    <div class="metric-label">Average Volatility</div>
+                </div>
+                <div class="metric">
+                    <div class="metric-value positive">1.10</div>
+                    <div class="metric-label">Average Sharpe</div>
+                </div>
+            </div>
+        </div>
+        
+        <div class="section">
+            <h2>📋 Stock Performance Data</h2><table border="1" class="dataframe" id="stock-data">
+  <thead>
+    <tr style="text-align: right;">
+      <th></th>
+      <th>Ticker</th>
+      <th>Start_Date</th>
+      <th>End_Date</th>
+      <th>Data_Points</th>
+      <th>Start_Price</th>
+      <th>End_Price</th>
+      <th>Total_Return_Pct</th>
+      <th>Annualized_Volatility_Pct</th>
+      <th>Sharpe_Ratio</th>
+      <th>Max_Drawdown_Pct</th>
+      <th>Avg_Volume</th>
+      <th>Current_RSI</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <th>0</th>
+      <td>AAPL</td>
+      <td>2022-09-15</td>
+      <td>2025-09-15</td>
+      <td>752</td>
+      <td>150.00</td>
+      <td>235.96</td>
+      <td>57.30</td>
+      <td>27.88</td>
+      <td>0.61</td>
+      <td>-33.36</td>
+      <td>60763228</td>
+      <td>60.88</td>
+    </tr>
+    <tr>
+      <th>1</th>
+      <td>MSFT</td>
+      <td>2022-09-15</td>
+      <td>2025-09-15</td>
+      <td>752</td>
+      <td>239.42</td>
+      <td>512.92</td>
+      <td>114.23</td>
+      <td>25.46</td>
+      <td>1.05</td>
+      <td>-23.73</td>
+      <td>24223849</td>
+      <td>59.01</td>
+    </tr>
+    <tr>
+      <th>2</th>
+      <td>GOOGL</td>
+      <td>2022-09-15</td>
+      <td>2025-09-15</td>
+      <td>752</td>
+      <td>102.21</td>
+      <td>249.89</td>
+      <td>144.50</td>
+      <td>31.52</td>
+      <td>1.05</td>
+      <td>-29.81</td>
+      <td>31788388</td>
+      <td>91.74</td>
+    </tr>
+    <tr>
+      <th>3</th>
+      <td>AMZN</td>
+      <td>2022-09-15</td>
+      <td>2025-09-15</td>
+      <td>752</td>
+      <td>126.28</td>
+      <td>232.13</td>
+      <td>83.82</td>
+      <td>33.93</td>
+      <td>0.71</td>
+      <td>-34.37</td>
+      <td>51144190</td>
+      <td>54.81</td>
+    </tr>
+    <tr>
+      <th>4</th>
+      <td>TSLA</td>
+      <td>2022-09-15</td>
+      <td>2025-09-15</td>
+      <td>752</td>
+      <td>303.75</td>
+      <td>411.44</td>
+      <td>35.45</td>
+      <td>62.54</td>
+      <td>0.44</td>
+      <td>-65.02</td>
+      <td>111242049</td>
+      <td>77.40</td>
+    </tr>
+    <tr>
+      <th>5</th>
+      <td>NVDA</td>
+      <td>2022-09-15</td>
+      <td>2025-09-15</td>
+      <td>752</td>
+      <td>12.91</td>
+      <td>177.82</td>
+      <td>1276.97</td>
+      <td>52.30</td>
+      <td>1.90</td>
+      <td>-36.88</td>
+      <td>390912102</td>
+      <td>46.68</td>
+    </tr>
+    <tr>
+      <th>6</th>
+      <td>META</td>
+      <td>2022-09-15</td>
+      <td>2025-09-15</td>
+      <td>752</td>
+      <td>148.73</td>
+      <td>767.24</td>
+      <td>415.85</td>
+      <td>42.57</td>
+      <td>1.46</td>
+      <td>-39.93</td>
+      <td>20673502</td>
+      <td>57.81</td>
+    </tr>
+    <tr>
+      <th>7</th>
+      <td>NFLX</td>
+      <td>2022-09-15</td>
+      <td>2025-09-15</td>
+      <td>752</td>
+      <td>235.38</td>
+      <td>1206.26</td>
+      <td>412.47</td>
+      <td>37.13</td>
+      <td>1.61</td>
+      <td>-27.51</td>
+      <td>5433703</td>
+      <td>47.28</td>
+    </tr>
+  </tbody>
+</table>
+        </div>
+        
+        <div class="insights">
+            <h2>💡 Key Insights</h2>
+            <ul>
+                <li><strong>🏆 Best Performer:</strong> NVDA (1276.97% return)</li>
+                <li><strong>📉 Worst Performer:</strong> TSLA (35.45% return)</li>
+                <li><strong>⚡ Most Volatile:</strong> TSLA (62.54% volatility)</li>
+                <li><strong>🛡️ Least Volatile:</strong> MSFT (25.46% volatility)</li>
+                <li><strong>🎯 Best Risk-Adjusted Return:</strong> NVDA (Sharpe: 1.90)</li>
+            </ul>
+        </div>
+        
+        <div style="margin-top: 40px; padding-top: 20px; border-top: 1px solid #ddd; text-align: center; color: #7f8c8d;">
+            <p>📊 This report was automatically generated from your stock analysis data.</p>
+            <p><em>For questions or customizations, check the visualization script settings.</em></p>
+        </div>
+    </div>
+</body>
+</html>
